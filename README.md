@@ -1,5 +1,5 @@
 # 1MS22CS120
-<img src = "">
+
 <h1>My Resume file</h1>
 <h3>Personal Details:</h3>
 <pre>
